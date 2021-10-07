@@ -1,1 +1,3 @@
 # MazeAL
+
+For this assigment, I had a few troubles early on when trying to make the two boxes interactable. It was confusing by the end because I had to figure out which layer the controller hands needed to be on so that they could interact with the boxes and change the tint/ debug the console. I noticed in the end that the Key needed a Key tag to be able to trigger the door opening script. In the video, a tag was briefly mentioned but the creation of the key tag was not exactly in the video. I just rhad to remember that it was briefly talked about. Once that was done I had a fully functioning XR experience with interactables and grabbables. 
